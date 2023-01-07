@@ -1,0 +1,12 @@
+@use 'variables' as *;
+
+* {
+	box-sizing: border-box;
+	font: inherit;
+}
+
+body {
+	font-family: $ff-primary;
+	background-color: $clr-background-page;
+	height: 100vh;
+}
