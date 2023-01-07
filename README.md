@@ -1,3 +1,3 @@
 # QR Code Component
 
-QR Code Component from [Frontend Mentor](https://frontendmentor.io).
+QR Code Component challenge from [Frontend Mentor](https://frontendmentor.io).
